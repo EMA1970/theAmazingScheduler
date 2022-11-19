@@ -1,14 +1,12 @@
 # The Amazing Scheduler 
-# Description
 
 A scheduler app designed to organize appointments. 
 
-## Table of Contents (Optional)
 
 ## Installation and Usage. 
 
 Click on URL to navigate to page. Enter appointment detail into slots and save for future reference. Time slot Color will change according to past present or future. 
 
 
-![alt text](assets/images/screenshot.png)
+![alt text](/)
 
